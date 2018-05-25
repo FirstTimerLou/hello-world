@@ -1,1 +1,2 @@
 # hello-world
+I'm Lou, and as my username suggests, I'm a bit of a first-timer when it comes to programming. I'm currently a 'wordpress' web developer at Alexander's Print ( http://alexanders.com ) and have enjoyed programming with html and basic css so far. I've completed Apple's 'Swift Playgrounds' courses on my ipad and have also been learning some Python. I'm looking forward to learning much more from the github community! 
